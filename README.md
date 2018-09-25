@@ -5,6 +5,11 @@ apresentacao no #1 Encontro do OpenSanca em araraquara
 - https://www.meetup.com/opensanca/events/254587878/
 
 ---
+Mini bio
+
+- https://github.com/fczuardi/minibios/blob/master/20180926-reason-opensanca.md
+
+---
 Minha proposta no speakerfight:
 
 https://speakerfight.com/events/1-encontro-mensal-do-opensanca-araraquara/#razoes-para-reason-por-que-aprender-mais-uma-linguagem
